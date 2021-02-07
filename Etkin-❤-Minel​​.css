@@ -629,7 +629,7 @@
 
   .u-section-5 .u-list-1 {
     min-height: 142px;
-    grid-template-columns: calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px);
+    grid-template-columns: calc(25%) calc(25%) calc(25%) calc(25%);
     width: 302px;
     margin-top: 15px;
     margin-bottom: 60px;
