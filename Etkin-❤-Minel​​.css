@@ -422,7 +422,9 @@
   grid-template-columns: calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px);
   grid-template-rows: auto;
   grid-gap: 10px 10px;
-  margin: 20px auto 30px 0;
+  width: 1038px;
+  height: auto;
+  margin: 20px auto 30px;
 }
 
 .u-section-5 .u-container-layout-1 {
@@ -492,9 +494,7 @@
 
   .u-section-5 .u-list-1 {
     min-height: 202px;
-    height: auto;
-    margin-right: initial;
-    margin-left: initial;
+    width: 940px;
   }
 
   .u-section-5 .u-text-2 {
@@ -546,8 +546,7 @@
   .u-section-5 .u-list-1 {
     min-height: 439px;
     grid-template-columns: calc(50% - 5px) calc(50% - 5px);
-    margin-right: initial;
-    margin-left: initial;
+    width: 720px;
   }
 
   .u-section-5 .u-text-2 {
@@ -572,6 +571,10 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-5 .u-list-1 {
+    width: 540px;
+  }
+
   .u-section-5 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
@@ -627,9 +630,9 @@
   .u-section-5 .u-list-1 {
     min-height: 142px;
     grid-template-columns: calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px) calc(25% - 7.5px);
+    width: 302px;
     margin-top: 15px;
-    margin-right: initial;
-    margin-left: initial;
+    margin-bottom: 60px;
   }
 
   .u-section-5 .u-text-2 {
