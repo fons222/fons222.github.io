@@ -4,7 +4,7 @@ var hoursLabel = document.getElementById("hours");
 var minutesLabel = document.getElementById("minutes");
 var secondsLabel = document.getElementById("seconds");
 
-var start = new Date(2020, 10, 27, 0, 0, 0, 0);
+var start = new Date(2020, 9, 27, 0, 0, 0, 0);
 var totalSeconds = Math.floor((new Date() - start) / 1000);
 setInterval(setTime, 1000);
 
