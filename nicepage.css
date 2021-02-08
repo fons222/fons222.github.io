@@ -31397,7 +31397,7 @@ a.u-link.u-text-hover-grey-90:hover {
         h1.u-title
         {
         font-weight: 400;
-        font-size: 4.5rem;
+        font-size: 3rem;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
@@ -31524,7 +31524,7 @@ a.u-link.u-text-hover-grey-90:hover {
         @media (max-width: 575px) {
         h1.u-title
         {
-        font-size: 3rem;
+        font-size: 2rem;
         }
         }
         @media (max-width: 575px) {
